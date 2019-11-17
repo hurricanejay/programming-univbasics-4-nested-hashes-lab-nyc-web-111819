@@ -110,7 +110,7 @@ def changing_alan
      #change what Alan Kay is :known_for to the value of the alans_new_info variable. 
      alans_new_info = "GUI"
   
-  programmer_hashp[:alan_kay][:known_for] = [:known_for => "GUI"]
+  programmer_hashp[:alan_kay][:known_for] = ["GUI"]
      
 end
 
